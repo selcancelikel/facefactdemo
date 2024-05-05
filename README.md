@@ -6,9 +6,9 @@ python -m venv myenv
 
 3-)env aktif etmek için
 myenv\Scripts\activate
-bu işlemlerden sonra projeninizin ana dizininde myenv dosyası oluşacak kontrol edi
+bu işlemlerden sonra projeninizin ana dizininde myenv dosyası oluşacak kontrol edin
 
-4-)backend dizinine gelin(requirements
+4-)backend dizinine gelin
 cd backend
 
 5-)Gerekli kütüphanelerin indirilmesi
